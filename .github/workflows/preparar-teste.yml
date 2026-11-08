@@ -1,0 +1,19 @@
+name: Preparacao BOB TESTE - sem publicacao
+on:
+  workflow_dispatch:
+permissions: {}
+jobs:
+  informar:
+    if: github.repository == 'Slake88/bob-manager-web-teste' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 2
+    steps:
+      - name: Registar limites da preparacao
+        shell: bash
+        run: |
+          cat <<'AVISO' >> "$GITHUB_STEP_SUMMARY"
+          ## BOB TESTE: publicacao bloqueada por ausencia de passos de deploy
+          Este workflow apenas apresenta esta mensagem.
+          Nao descarrega, extrai, compila, carrega ou publica a aplicacao.
+          O pacote ZIP permanece local. Qualquer publicacao exige autorizacao especifica e revisao do workflow.
+          AVISO
