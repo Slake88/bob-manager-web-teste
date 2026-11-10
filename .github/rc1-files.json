@@ -2,7 +2,7 @@
   {
     "path": ".last_build_id",
     "bytes": 32,
-    "sha256": "EF19045635E86DC2B809470E5A482FD22A58195671190EEACBC2D285D234BBA6"
+    "sha256": "2F12375F5B1CD1E9EDEFB3F41E5B58FBEFED0ABE5ECE975C96D491EB5A8662D1"
   },
   {
     "path": "assets/AssetManifest.bin",
@@ -142,7 +142,7 @@
   {
     "path": "flutter_bootstrap.js",
     "bytes": 9975,
-    "sha256": "ADC666166F7622FF79AEEBCFCFFF05C2DC2DB20BAEB0EA2622597D65A42BD3B4"
+    "sha256": "7D32E86D6FF730A0EDFAE509191A343A89157A204C5934E44245A2F9CCB342ED"
   },
   {
     "path": "flutter_service_worker.js",
@@ -181,8 +181,8 @@
   },
   {
     "path": "main.dart.js",
-    "bytes": 7240103,
-    "sha256": "83B3CB45D0889E57901A6A55134DD867ABA2225E8935FB8C6E7183EF26B286EA"
+    "bytes": 7243201,
+    "sha256": "19D7A55002F915B08A715B8A19D5CEFC17ECB48F93AB43AB65F11C0CDD470EE5"
   },
   {
     "path": "manifest.json",
