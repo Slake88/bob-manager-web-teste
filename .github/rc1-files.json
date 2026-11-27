@@ -26,8 +26,8 @@
   },
   {
     "path": "assets/fonts/MaterialIcons-Regular.otf",
-    "bytes": 41148,
-    "sha256": "a78af3c6a7c9ecd1e8658668d3943d33b933e3a11d7876e4b1fff79df83cd8b3"
+    "bytes": 41280,
+    "sha256": "9dcf373e6f91181802d05de8f21e09e419401eff078a5b72ec6a92749d82a85b"
   },
   {
     "path": "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf",
@@ -147,7 +147,7 @@
   {
     "path": "flutter_bootstrap.js",
     "bytes": 9975,
-    "sha256": "bf8e12812659c434526f3150523f844a63047b3890428151ca600eff827da62f"
+    "sha256": "154ed9a5e8b8e20bafc456776439ad2ef32071a0b4a64212301bf2f5c0a52764"
   },
   {
     "path": "flutter_service_worker.js",
@@ -181,8 +181,8 @@
   },
   {
     "path": "main.dart.js",
-    "bytes": 7275317,
-    "sha256": "86f4da5f7ba030483d41673ea11619ce22662346fe5580873dd7f72595d9676a"
+    "bytes": 7319356,
+    "sha256": "d97221b5de0c548bba930e49e356165f9f69243f1d79e2b310f26e0bafe8638c"
   },
   {
     "path": "manifest.json",
